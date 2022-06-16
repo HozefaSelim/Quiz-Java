@@ -1,0 +1,60 @@
+Java’da “Merhaba Dünya” çıktısını almak için doğru sözdizimi nedir?
+print(“Merhaba Dünya”);
+Console.WriteLine(“Merhaba Dünya”);
+System.out.println(“Merhaba Dünya”);
+echo “Merhaba Dünya”;
+C
+Thread’ın sleep() metodu çağrıldığında ne olur?
+İş parçacığı hazır durumuna döner.
+İş parçacığı bekleme durumuna döner.
+Konu çalışmaya başlar.
+Yukarıdakilerin hiçbiri.
+B
+Hangi durumda bir programın kurtarılması beklenir?
+Bir hata oluşursa.
+Bir istisna olursa.
+Yukarıdakilerin her ikisi.
+Yukarıdakilerin hiçbiri.
+B
+Java koduna YORUMLARI nasıl eklersiniz?
+#Bu bir yorum
+<!– Bu bir yorum –>
+/* Bu bir yorum
+// Bu bir yorum
+D
+Metni depolamak için aşağıdaki veri türlerinden hangisini  kullanılması gerekir?
+Var
+Chars
+String
+string
+C
+Bir java sınıfının main metodu için doğru sözdizimi nedir?
+public static int main(String[] args)
+public int main(String[] args)
+public static void main(String[] args)
+None of the above.
+C
+float değişkeninin varsayılan değeri nedir?
+0.0d
+0.0f
+0
+tanımlanmamış
+B
+Sayısal değeri 5 olan bir değişkeni nasıl tanımlarsınız?
+x=5;
+float x =5;
+Number x = 5;
+int x = 5;
+D
+Hangi metod string uzunluğunu getirir?
+getSize();
+getLen();
+length();
+len();
+C
+Hangi operatör iki değeri karşılaştırmak için kullanılır?
+<>
+==
+=
+><
+B
